@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/football-watch/static/css/main.a41ad390.chunk.css",
+    "main.js": "/football-watch/static/js/main.8b89959c.chunk.js",
+    "main.js.map": "/football-watch/static/js/main.8b89959c.chunk.js.map",
+    "runtime-main.js": "/football-watch/static/js/runtime-main.4bcd343b.js",
+    "runtime-main.js.map": "/football-watch/static/js/runtime-main.4bcd343b.js.map",
+    "static/js/2.81ec1a78.chunk.js": "/football-watch/static/js/2.81ec1a78.chunk.js",
+    "static/js/2.81ec1a78.chunk.js.map": "/football-watch/static/js/2.81ec1a78.chunk.js.map",
+    "index.html": "/football-watch/index.html",
+    "precache-manifest.646117021864d3a8dfe57e65f09ae47b.js": "/football-watch/precache-manifest.646117021864d3a8dfe57e65f09ae47b.js",
+    "service-worker.js": "/football-watch/service-worker.js",
+    "static/css/main.a41ad390.chunk.css.map": "/football-watch/static/css/main.a41ad390.chunk.css.map",
+    "static/js/2.81ec1a78.chunk.js.LICENSE.txt": "/football-watch/static/js/2.81ec1a78.chunk.js.LICENSE.txt",
+    "static/media/logo-white.png": "/football-watch/static/media/logo-white.40d4ef82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bcd343b.js",
+    "static/js/2.81ec1a78.chunk.js",
+    "static/css/main.a41ad390.chunk.css",
+    "static/js/main.8b89959c.chunk.js"
+  ]
+}
