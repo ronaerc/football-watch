@@ -3,8 +3,6 @@ import {Button} from '../button/button.component.jsx';
 
 import logo from '../../logo-white.png';
 
-import './header.styles.css';
-
 export const Header = props => (
     <header className="header">
         <div className="header__logo-box">

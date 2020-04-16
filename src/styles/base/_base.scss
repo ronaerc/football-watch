@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html{
+    font-size: 62.5%; /* Browser defualt is 16px divided by 10px. which is what we want */
+    /* 1rem = 10px */
+}
+
+body{
+    padding: 3rem;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
