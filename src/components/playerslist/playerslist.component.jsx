@@ -15,27 +15,63 @@ class PlayersList extends React.Component {
                   description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
                 },
                 {
-                    title: 'Garincha',
+                    title: 'Pele',
                     id: 2,
-                    linkUrl: 'https://www.youtube.com/watch?v=kJxMVHBVdi4',
+                    linkUrl: 'https://www.dailymotion.com/video/x4fdlqd',
                     description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
                 },
                 {
-                    title: 'Garincha',
+                    title: 'Cryuff',
                     id: 3,
                     linkUrl: 'https://www.youtube.com/watch?v=kJxMVHBVdi4',
                     description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
                 },
                 {
-                    title: 'Garincha',
+                    title: 'Ronaldo',
                     id: 4,
-                    linkUrl: 'https://www.youtube.com/watch?v=kJxMVHBVdi4',
+                    linkUrl: 'https://www.dailymotion.com/video/x27s5f0',
                     description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
                 },
                 {
-                    title: 'Garincha',
+                    title: 'Maradona',
                     id: 5,
-                    linkUrl: 'https://www.youtube.com/watch?v=kJxMVHBVdi4',
+                    linkUrl: 'https://www.dailymotion.com/video/x7f3e02',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Zico',
+                    id: 6,
+                    linkUrl: 'https://www.dailymotion.com/video/x27s5fi',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Eusébio',
+                    id: 7,
+                    linkUrl: 'https://www.dailymotion.com/video/x3sltfk',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Ronaldinho',
+                    id: 8,
+                    linkUrl: 'https://www.dailymotion.com/video/x27s5cd',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Zidane',
+                    id: 9,
+                    linkUrl: 'https://www.dailymotion.com/video/x27rvwl',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Rivellino',
+                    id: 10,
+                    linkUrl: 'https://www.dailymotion.com/video/x4i5jbi',
+                    description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
+                },
+                {
+                    title: 'Muller',
+                    id: 11,
+                    linkUrl: 'https://www.dailymotion.com/video/x27s7xc',
                     description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas gravida aliquet feugiat.'
                 }
             ]

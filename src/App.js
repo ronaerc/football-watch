@@ -12,7 +12,7 @@ class App extends Component {
 
     this.state = {
       siteName: 'Football',
-      siteSubName: 'Watch'
+      siteSubName: 'Docs'
     }
   }
   
